@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**14** solved · 14 problems · 0 labs · 0 math
+**15** solved · 15 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -26,6 +26,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-10-13 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implement Lasso Regression using ISTA](https://www.deep-ml.com/problems/50) | medium | 2026-10-15 | [solution](problems/0050-implement-lasso-regression-using-ista) |
 | [Merge Multiple DataFrames](https://www.deep-ml.com/problems/1129) | medium | 2026-10-19 | [solution](problems/1129-merge-multiple-dataframes) |
+| [Rolling Average over a Daily Series with Missing Dates](https://www.deep-ml.com/problems/1552) | medium | 2026-10-19 | [solution](problems/1552-rolling-average-over-a-daily-series-with-missing-dates) |
 
 ---
 

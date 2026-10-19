@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T05:32:53.505Z",
+  "generated_at": "2026-10-19T06:09:47.145Z",
   "items": {
     "problem:18": {
       "kind": "problem",
@@ -156,6 +156,19 @@
       "last_pushed_at": "2026-10-19T05:32:52.380Z",
       "language": "python",
       "lines": 10
+    },
+    "problem:1131": {
+      "kind": "problem",
+      "id": "1131",
+      "title": "Clean a Messy Dataset: Dedup, Standardize, Impute",
+      "difficulty": "medium",
+      "category": "Pandas",
+      "url": "https://www.deep-ml.com/problems/1131",
+      "path": "problems/1131-clean-a-messy-dataset-dedup-standardize-impute",
+      "first_solved_at": "2026-10-19T06:09:46.300Z",
+      "last_pushed_at": "2026-10-19T06:09:46.300Z",
+      "language": "python",
+      "lines": 11
     }
   }
 }
